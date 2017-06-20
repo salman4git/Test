@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					18264F2E1EF8FC4B00FC40DA = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = MRMWJP42PM;
 						ProvisioningStyle = Automatic;
 					};
 					18264F451EF8FC4C00FC40DA = {
@@ -416,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MRMWJP42PM;
 				INFOPLIST_FILE = GitUseExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.sample.GitUseExample;
@@ -428,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MRMWJP42PM;
 				INFOPLIST_FILE = GitUseExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.sample.GitUseExample;
